@@ -70,7 +70,8 @@ By the end of Month 6, you will:
 
 - Follow each task by week
 - Clone this repo and track your progress
-- Join [community sessions](https://youtube.com/@learnwithnimesha) or weekly check-ins
+- Join [community sessions](https://youtube.com/@learnwithnimesha) for weekly check-ins
+-  Join [Discord](https://discord.gg/4J6pgj4H6A)
 - Update the status and progress in each section
 
 ---
