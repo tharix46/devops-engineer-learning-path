@@ -35,14 +35,14 @@ This **6-month free program** is designed to help **interns, fresh graduates, ca
 ## 📅 Weekly Breakdown
 
 | Month | Week(s) | Topics | Tools / Platforms | Status |
-|-------|---------|--------|-------------------|
-| Jul | 1–2 | Linux Fundamentals | Ubuntu/CentOS, KodeKloud | ✅ Completed |
-| Jul | 3–4 | Shell Scripting | Bash, Vim/Nano | ⏳ Upcoming | 
-| Aug | 1–2 | Git & GitHub | Git CLI, GitHub | ⏳ Upcoming |
-| Aug | 3–4 | Git Workflows | GitHub Issues, Projects | ⏳ Upcoming |
-| Sep | 1–2 | Docker Basics | Docker CLI, DockerHub | ⏳ Upcoming |
-| Sep | 3 | Docker Compose | docker-compose.yml | ⏳ Upcoming |
-| Sep | 4 | Basic CI/CD | GitHub Actions, Jenkins | ⏳ Upcoming |
+|-------|---------|--------|-------------------|--------|
+| Jul | 1–2 | Linux Fundamentals | Ubuntu/CentOS, KodeKloud | ✅ Completed 
+| Jul | 3–4 | Shell Scripting | Bash, Vim/Nano | ⏳ Upcoming 
+| Aug | 1–2 | Git & GitHub | Git CLI, GitHub | ⏳ Upcoming 
+| Aug | 3–4 | Git Workflows | GitHub Issues, Projects | ⏳ Upcoming 
+| Sep | 1–2 | Docker Basics | Docker CLI, DockerHub | ⏳ Upcoming 
+| Sep | 3 | Docker Compose | docker-compose.yml | ⏳ Upcoming 
+| Sep | 4 | Basic CI/CD | GitHub Actions, Jenkins | ⏳ Upcoming 
 | Oct | 1–2 | Kubernetes Basics | Minikube, kubectl | ⏳ Upcoming |
 | Oct | 3 | Helm Charts | Helm | ⏳ Upcoming |
 | Oct | 4 | Cloud Basics | AWS, Azure, GCP | ⏳ Upcoming |
