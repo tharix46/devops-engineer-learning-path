@@ -20,17 +20,7 @@ VI (pronounced "vee-eye") is a powerful console-based text editor that comes pre
 
 **VI is short for "visual"** - it was revolutionary when introduced because it allowed full-screen editing, unlike earlier line-based editors.
 
-Here's an important fact: **VI has been replaced by VIM** (Vi IMproved). Even when you type the `vi` command, what actually starts is VIM in most modern Linux systems:
-
-```bash
-# Both commands typically start VIM
-vi myfile.txt
-vim myfile.txt
-
-# Check what you're really running
-which vi
-# Usually shows: /usr/bin/vim
-```
+Here's an important fact: **VI has been replaced by VIM** (Vi IMproved). Many Linux distributions (like Ubuntu) use Vim to provide the vi command, meaning when you type vi in the terminal, you are actually running a version of Vim configured to behave like the original Vi, or a more feature-rich version with specific settings.:
 
 ## Why Choose VI/VIM Over Other Editors?
 
