@@ -59,7 +59,7 @@ This **6-month free program** is designed to help **interns, fresh graduates, ca
 
 ## 🧩 Resources: 
 
-Recommended Linux Course : [Visit URL](https://shareasale.com/r.cfm?b=2319110&u=4596421&m=132199&urllink=&afftrack=)
+Recommended Linux Course : [KodeKloud Linux for Beginners Course](https://shareasale.com/r.cfm?b=2319110&u=4596421&m=132199&urllink=&afftrack=)
 
 
 ## 🛠️ Final Project
