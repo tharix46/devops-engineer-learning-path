@@ -68,7 +68,7 @@ chmod 644 notes.txt
 chmod 700 secret.sh
 ```
 
-## Ownership
+## 👤 Ownership
 
 Every file or directory has an owner and a group. To view ownership `ls -l` command is used.
 
